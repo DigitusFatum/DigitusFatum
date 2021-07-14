@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DigitusFatum
+- 👋 Hi, I’m @vpalain
 - 👀 I’m interested in C
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on learning C
